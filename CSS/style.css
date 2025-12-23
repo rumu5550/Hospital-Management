@@ -1,0 +1,14 @@
+.signup{
+    width: 200px;
+    border: 1px solid black;
+    margin: 150px auto;
+    padding:20px;
+   
+    
+
+}
+.inputfield {
+  outline: none;
+  border: 0;
+  width: 100%;
+}
