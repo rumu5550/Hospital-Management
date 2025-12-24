@@ -1,14 +1,27 @@
 .signup{
     width: 200px;
     border: 1px solid black;
-    margin: 150px auto;
+    margin: 100px auto;
     padding:20px;
-   
-    
-
-}
+  }
 .inputfield {
   outline: none;
   border: 0;
   width: 100%;
 }
+.button{
+  margin-left: 5px;
+  padding: 5px 70px;
+  background-color: rgb(91, 92, 92);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  
+}
+main .button:hover{
+  background-color: gray;
+}
+
+.signup-text>a{
+  text-decoration: none;
+  }
